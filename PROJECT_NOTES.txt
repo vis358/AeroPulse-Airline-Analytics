@@ -1,0 +1,17 @@
+AeroPulse — Airline Operations & Passenger Analytics
+
+Dataset
+-------
+Rows: 100,000
+Columns: 25
+Date range: 2025-01-01 to 2026-06-30
+
+Core fields:
+Flight_ID, Flight_Date, Airline, Origin, Destination, Region,
+Aircraft_Type, Distance_KM, Flight_Hours, Capacity, Passengers,
+Load_Factor, Delay_Minutes, Delay_Reason, Flight_Status, On_Time,
+Cancelled, Ticket_Price, Revenue, Operating_Cost, Profit,
+Booking_Channel, Customer_Type, Baggage_Issues, Satisfaction_Score
+
+Next step:
+Import data/airline_operations.csv into Power BI.
